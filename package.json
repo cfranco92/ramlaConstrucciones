@@ -1,0 +1,22 @@
+{
+  "name": "dcapricho",
+  "version": "1.0.0",
+  "description": "Página oficial dcapricho",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dcapricho",
+    "capricho"
+  ],
+  "author": "Ramla Pro.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
